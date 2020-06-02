@@ -209,11 +209,6 @@ QUANTAXIS 是一个开放的项目, 在开源的3年中有大量的小伙伴加�
 许多问题 可以在 [GITHUB ISSUE](https://github.com/QUANTAXIS/QUANTAXIS/issues)中找到, 你可以提出新的issue
 
 
-
-### QQ群
-
-欢迎加群讨论: 563280067 [群链接](https://jq.qq.com/?_wv=1027&k=4CEKGzn) 
-
 DISCORD 社区  https://discord.gg/mkk5RgN
 
 QUANATXIS 前端开发群: 983499694 [群链接](https://jq.qq.com/?_wv=1027&k=5qYi8Fk)
@@ -252,10 +247,6 @@ http://doc.yutiansut.com
 (PS: 支付的时候 请带上你的名字/昵称呀 会维护一个赞助列表~ )
 
 [捐赠列表](CONTRIBUTING.md)
-
-
-
-##  QUANTAXIS 桌面级产品(全平台 WIN/MAC/LINUX)
 
 
 致谢:
