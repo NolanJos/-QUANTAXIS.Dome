@@ -196,13 +196,10 @@ PS: 除了可视化的桌面端/网页端 QACommunity(内置在docker/ 群文件
 - [portable_QA](https://github.com/QUANTAXIS/portable_QA) 一个独立的python环境,免配置
 - [QUANTAXIS_CRAWLY](https://github.com/QUANTAXIS/QUANTAXIS_CRAWLY) 爬虫部分
 
-## 社区/项目捐赠
 
-### github
+
 
 QUANTAXIS 是一个开放的项目, 在开源的3年中有大量的小伙伴加入了我, 并提交了相关的代码, 感谢以下的同学们
-
-<a href="https://github.com/QUANTAXIS/QUANTAXIS/graphs/contributors"><img src="https://opencollective.com/QUANTAXIS/contributors.svg?width=890&button=false" /></a>
 
 
 
@@ -218,10 +215,6 @@ QUANATXIS 研报阅读/ 事件驱动分析群: 1045723486 [群链接](https://jq
 QUANTAXIS 开发群: 773602202 (如果想要贡献代码 请加这个群 需要备注你的GITHUB ID)
 
 QUANTAXIS 期货实盘多账户的本地部署群 (请勿浪费群资源 没有本地多账户部署的请勿加): 945822690
-
-### 公共号
-
-欢迎关注公众号: ![公众号](http://data.yutiansut.com/qrcode_for_gh_bbb47e0550f7_258.jpg)
 
 QAPRO公共号免费提供了下单推送接口, 关注公共号回复trade即可使用
 
